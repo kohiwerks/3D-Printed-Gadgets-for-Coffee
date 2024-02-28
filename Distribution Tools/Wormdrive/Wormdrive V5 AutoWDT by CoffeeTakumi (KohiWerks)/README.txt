@@ -10,4 +10,4 @@ The quantity is as follows;
 For assembly, just place the 683ZZ bearings into the spindle, then fasten the gears to the spindle, followed by the fixed needle holders to the spindle
 Then push the 608ZZ bearing into the Upper, Then push the spindle into the Upper, Then add the needles, Then attach the height adjustment block into Upper, then the Lower to the Upper
 Then attach the lower lock, and then add the M5x16 bolt to the height adjustment block, then the M5x10 to the lower lock.... and then fine tune your needle height for the basket........
-Attach the top handle, unless you prefer to just spin the spindle directly but a better ergonomic experience is the handle
+Attach the top handle, unless you prefer to just spin the spindle directly but a better ergonomic experience is the handle, also adjust the position of your fixed needles to the outer rim of the baskets
